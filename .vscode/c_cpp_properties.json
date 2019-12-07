@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "h:/arduino/tonuino/Tonuino/include",
+                "h:/arduino/tonuino/Tonuino/src",
+                "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                "h:/arduino/tonuino/Tonuino/.pio/libdeps/nanoatmega328/JC_Button_ID77/src",
+                "h:/arduino/tonuino/Tonuino/.pio/libdeps/nanoatmega328/DFPlayer Mini Mp3 by Makuna_ID1561/src",
+                "h:/arduino/tonuino/Tonuino/.pio/libdeps/nanoatmega328/MFRC522_ID63/src",
+                "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/cores/arduino",
+                "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs",
+                "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                "C:/Users/jvanm/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "h:/arduino/tonuino/Tonuino/include",
+                    "h:/arduino/tonuino/Tonuino/src",
+                    "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                    "h:/arduino/tonuino/Tonuino/.pio/libdeps/nanoatmega328/JC_Button_ID77/src",
+                    "h:/arduino/tonuino/Tonuino/.pio/libdeps/nanoatmega328/DFPlayer Mini Mp3 by Makuna_ID1561/src",
+                    "h:/arduino/tonuino/Tonuino/.pio/libdeps/nanoatmega328/MFRC522_ID63/src",
+                    "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                    "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/cores/arduino",
+                    "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs",
+                    "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                    "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                    "C:/Users/jvanm/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                    "C:/Users/jvanm/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40100",
+                "ARDUINO_AVR_NANO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10805",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "\"C:/Users/jvanm/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe\" -mmcu=atmega328p"
+        }
+    ],
+    "version": 4
+}
